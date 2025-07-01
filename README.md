@@ -1,4 +1,4 @@
-# Election Data Analytics Project
+# Task_03_Descriptive_Stats
 
 This project analyzes three datasets related to the 2024 US presidential election using Python. The datasets are located in the `Dataset_Election` folder and include Facebook Ads, Facebook Posts, and Twitter Posts.
 
